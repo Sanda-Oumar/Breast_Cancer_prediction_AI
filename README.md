@@ -26,14 +26,15 @@ The models were evaluated using the following metrics:
 - Recall
 - F1-Score
   
-  | Modèle                 | Accuracy | Precision | Recall | F1-Score |
-|------------------------|---------|-----------|--------|----------|
+  | Modèle                | Accuracy | Precision | Recall | F1-Score |
+|-----------------------|---------|-----------|--------|----------|
 | **Logistic Regression** | 0.98    | 0.98      | 0.98   | 0.98     |
-| **KNN**                | 0.96    | 0.96      | 0.95   | 0.96     |
-| **Decision Tree**      | 0.94    | 0.94      | 0.94   | 0.94     |
-| **SVM**                | 0.98    | 0.98      | 0.97   | 0.98     |
-| **Naive Bayes**        | 0.94    | 0.93      | 0.93   | 0.94     |
-| **XGBoost**            | 0.97    | 0.97      | 0.97   | 0.97     |
+| **KNN**               | 0.96    | 0.96      | 0.95   | 0.96     |
+| **Decision Tree**     | 0.94    | 0.94      | 0.94   | 0.94     |
+| **SVM**               | 0.98    | 0.98      | 0.97   | 0.98     |
+| **Naive Bayes**       | 0.94    | 0.93      | 0.93   | 0.94     |
+| **XGBoost**           | 0.97    | 0.97      | 0.97   | 0.97     |
+
 
 # 🧠 Model Explainability
 
